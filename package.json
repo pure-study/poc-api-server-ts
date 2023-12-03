@@ -1,5 +1,5 @@
 {
-    "name": "my-express-api",
+    "name": "poc-api-server-ts",
     "version": "1.0.0",
     "description": "express api with typescript",
     "main": "index.js",
